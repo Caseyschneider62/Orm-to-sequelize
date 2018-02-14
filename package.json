@@ -1,0 +1,24 @@
+{
+  "name": "orm-to-sequelize",
+  "version": "1.0.0",
+  "description": "Demo for sequelize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caseyschneider62/Orm-to-sequelize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caseyschneider62/Orm-to-sequelize/issues"
+  },
+  "homepage": "https://github.com/Caseyschneider62/Orm-to-sequelize#readme",
+  "dependencies": {
+    "mysql2": "^1.5.2",
+    "sequelize": "^4.33.4"
+  }
+}
